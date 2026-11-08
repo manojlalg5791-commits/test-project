@@ -1,0 +1,8 @@
+CONTACT MANAGEMENT FEATURE
+
+Developer: Manoj Lal
+
+Feature 1: Add contact
+Feature 2: Edit contact
+Feature 3: Delete contact
+Feature 4: Search contact
